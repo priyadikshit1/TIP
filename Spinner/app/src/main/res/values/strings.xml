@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Photo Album</string>
+
+    <string-array name="MyImageList">
+        <item> Carnation </item>
+        <item> White Rose </item>
+        <item> Orchid </item>
+        <item> Lilies </item>
+        <item> Sunflower </item>
+    </string-array>
+
+
+</resources>
